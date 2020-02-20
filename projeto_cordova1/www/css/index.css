@@ -85,7 +85,7 @@ h1 {
 }
 
 .event.received {
-    background-color:#4B946A;
+    background-color:blue;
     display:none;
 }
 
